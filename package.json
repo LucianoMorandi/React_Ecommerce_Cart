@@ -2,6 +2,7 @@
   "name": "react-shopping-cart",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lucianomorandi.github.io/React_Ecommerce_Cart/",
   "engines": {
     "node": "14.17.3"
   },
